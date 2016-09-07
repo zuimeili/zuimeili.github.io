@@ -32,8 +32,8 @@ body{
 	width: 263px; 
 	height: 200px;
 	position: fixed; 
-	top: 6%; 
-	left: 10%; 
+	top: 2%; 
+	left: 2%; 
 	z-index: 0;
 }
 .left,.right{
